@@ -1,0 +1,30 @@
+*{
+
+	text-align: center;
+
+}
+
+h2{
+
+	font-size: 45px;
+
+}
+
+label{
+
+	font-size: 35px;
+
+}
+
+input{
+
+	font-size: 45px;
+	border-style: hidden;
+	border-radius: 25px;
+}
+h1{
+
+	text-align: center;
+	font-size: 70px;
+
+}
